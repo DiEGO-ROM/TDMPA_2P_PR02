@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TDMPA_2P_PR02</string>
+
+    <string-array name="Categorías">
+        <item>Hamburguesa</item>
+        <item>Tacos</item>
+        <item>Refresco</item>
+    </string-array>
+
+    <string-array name="Hamburguesa">
+        <item>Hamburguesa Sencilla</item>
+        <item>Hamburguesa Doble</item>
+        <item>Hamburguesa Vegetariana</item>
+    </string-array>
+
+    <string-array name="Tacos">
+        <item>Tacos al Pastor</item>
+        <item>Tacos de Birria</item>
+        <item>Tacos de Cecina</item>
+    </string-array>
+
+    <string-array name="Refresco">
+        <item>Coca-Cola</item>
+        <item>Sprite</item>
+        <item>Fanta</item>
+    </string-array>
+
+</resources>
